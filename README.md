@@ -1,2 +1,2 @@
 # SquirrelDiseasePrediction
-Machine Learning Project to figure out whether a squirrel has a disease or not. 
+Machine Learning Project to figure out whether a squirrel is sick or not sick. 
